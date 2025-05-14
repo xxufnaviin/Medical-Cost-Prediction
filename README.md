@@ -1,5 +1,5 @@
 # Medical Cost Prediction
-This project aims to analyze factors influencing healthcare costs and predict individual medical expenses using regression models on a medical cost dataset.
+This project aims to analyze the factors influencing healthcare costs and predict individual medical expenses using regression models. It leverages machine learning techniques such as **hyperparameter tuning**, **cross-validation**, and **model evaluation** to improve predictive performance.
 
 ✅ The optimized Decision Tree Regressor performed strongly, achieving an R² score of ~0.83 during cross-validation and test evaluation, indicating the model effectively explains the majority of the variance in medical charges. 📈💡
 ###
